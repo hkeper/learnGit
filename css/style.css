@@ -3,6 +3,7 @@ body{
 	margin: 0 auto;
 }
 h1{
-    color:red;
     font-size: 40px;
+	background: green;
+    color:#99FF66;  
 }
